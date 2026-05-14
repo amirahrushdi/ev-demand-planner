@@ -1,0 +1,1697 @@
+state,month_start,ev_total,period,cum_ports,dc_ratio
+Johor,2020-01-01,0,Historical,0.0,0.0
+Johor,2020-02-01,0,Historical,0.0,0.0
+Johor,2020-03-01,0,Historical,0.0,0.0
+Johor,2020-04-01,0,Historical,0.0,0.0
+Johor,2020-05-01,0,Historical,0.0,0.0
+Johor,2020-06-01,0,Historical,0.0,0.0
+Johor,2020-07-01,0,Historical,0.0,0.0
+Johor,2020-08-01,0,Historical,0.0,0.0
+Johor,2020-09-01,0,Historical,0.0,0.0
+Johor,2020-10-01,1,Historical,0.0,0.0
+Johor,2020-11-01,1,Historical,0.0,0.0
+Johor,2020-12-01,0,Historical,0.0,0.0
+Johor,2021-01-01,3,Historical,0.0,0.0
+Johor,2021-02-01,0,Historical,0.0,0.0
+Johor,2021-03-01,0,Historical,0.0,0.0
+Johor,2021-04-01,2,Historical,0.0,0.0
+Johor,2021-05-01,2,Historical,0.0,0.0
+Johor,2021-06-01,0,Historical,0.0,0.0
+Johor,2021-07-01,1,Historical,0.0,0.0
+Johor,2021-08-01,3,Historical,0.0,0.0
+Johor,2021-09-01,2,Historical,0.0,0.0
+Johor,2021-10-01,2,Historical,0.0,0.0
+Johor,2021-11-01,0,Historical,0.0,0.0
+Johor,2021-12-01,1,Historical,0.0,0.0
+Johor,2022-01-01,0,Historical,0.0,0.0
+Johor,2022-02-01,1,Historical,0.0,0.0
+Johor,2022-03-01,8,Historical,0.0,0.0
+Johor,2022-04-01,19,Historical,0.0,0.0
+Johor,2022-05-01,10,Historical,0.0,0.0
+Johor,2022-06-01,12,Historical,0.0,0.0
+Johor,2022-07-01,8,Historical,0.0,0.0
+Johor,2022-08-01,15,Historical,0.0,0.0
+Johor,2022-09-01,35,Historical,0.0,0.0
+Johor,2022-10-01,19,Historical,0.0,0.0
+Johor,2022-11-01,31,Historical,0.0,0.0
+Johor,2022-12-01,61,Historical,0.0,0.0
+Johor,2023-01-01,23,Historical,0.0,0.0
+Johor,2023-02-01,38,Historical,0.0,0.0
+Johor,2023-03-01,66,Historical,51.0,0.2549019607843137
+Johor,2023-04-01,47,Historical,51.0,0.2549019607843137
+Johor,2023-05-01,70,Historical,51.0,0.2549019607843137
+Johor,2023-06-01,62,Historical,51.0,0.2549019607843137
+Johor,2023-07-01,72,Historical,58.0,0.293103448275862
+Johor,2023-08-01,75,Historical,66.0,0.3181818181818182
+Johor,2023-09-01,59,Historical,66.0,0.3181818181818182
+Johor,2023-10-01,89,Historical,92.0,0.2717391304347826
+Johor,2023-11-01,120,Historical,92.0,0.2717391304347826
+Johor,2023-12-01,234,Historical,111.0,0.2432432432432432
+Johor,2024-01-01,107,Historical,111.0,0.2432432432432432
+Johor,2024-02-01,81,Historical,111.0,0.2432432432432432
+Johor,2024-03-01,176,Historical,116.0,0.2586206896551724
+Johor,2024-04-01,122,Historical,124.0,0.2419354838709677
+Johor,2024-05-01,200,Historical,124.0,0.2419354838709677
+Johor,2024-06-01,147,Historical,136.0,0.2352941176470588
+Johor,2024-07-01,141,Historical,136.0,0.2352941176470588
+Johor,2024-08-01,133,Historical,144.0,0.2291666666666666
+Johor,2024-09-01,123,Historical,165.0,0.2363636363636363
+Johor,2024-10-01,124,Historical,273.0,0.2857142857142857
+Johor,2024-11-01,141,Historical,273.0,0.2857142857142857
+Johor,2024-12-01,227,Historical,331.0,0.3444108761329305
+Johor,2025-01-01,122,Historical,331.0,0.3444108761329305
+Johor,2025-02-01,180,Historical,331.0,0.3444108761329305
+Johor,2025-03-01,228,Historical,331.0,0.3444108761329305
+Johor,2025-04-01,229,Historical,331.0,0.3444108761329305
+Johor,2025-05-01,371,Historical,466.0,0.4721030042918455
+Johor,2025-06-01,268,Historical,466.0,0.4721030042918455
+Johor,2025-07-01,231,Historical,466.0,0.4721030042918455
+Johor,2025-08-01,274,Historical,466.0,0.4721030042918455
+Johor,2025-09-01,293,Historical,466.0,0.4721030042918455
+Johor,2025-09-01,278,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2025-10-01,303,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2025-11-01,330,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2025-12-01,433,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-01-01,315,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-02-01,336,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-03-01,481,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-04-01,417,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-05-01,594,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-06-01,519,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-07-01,459,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-08-01,556,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-09-01,531,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-10-01,561,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-11-01,667,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2026-12-01,855,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-01-01,648,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-02-01,636,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-03-01,745,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-04-01,699,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-05-01,887,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-06-01,765,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-07-01,784,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-08-01,797,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-09-01,822,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-10-01,866,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-11-01,907,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2027-12-01,1154,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-01-01,793,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-02-01,844,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-03-01,1104,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-04-01,959,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-05-01,1183,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-06-01,1015,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-07-01,969,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-08-01,987,XGBoost Forecast,466.0,0.4721030042918455
+Johor,2028-09-01,899,XGBoost Forecast,466.0,0.4721030042918455
+Kedah,2020-01-01,0,Historical,0.0,0.0
+Kedah,2020-02-01,0,Historical,0.0,0.0
+Kedah,2020-03-01,0,Historical,0.0,0.0
+Kedah,2020-04-01,0,Historical,0.0,0.0
+Kedah,2020-05-01,0,Historical,0.0,0.0
+Kedah,2020-06-01,0,Historical,0.0,0.0
+Kedah,2020-07-01,0,Historical,0.0,0.0
+Kedah,2020-08-01,0,Historical,0.0,0.0
+Kedah,2020-09-01,0,Historical,0.0,0.0
+Kedah,2020-10-01,1,Historical,0.0,0.0
+Kedah,2020-11-01,0,Historical,0.0,0.0
+Kedah,2020-12-01,0,Historical,0.0,0.0
+Kedah,2021-01-01,0,Historical,0.0,0.0
+Kedah,2021-02-01,0,Historical,0.0,0.0
+Kedah,2021-03-01,0,Historical,0.0,0.0
+Kedah,2021-04-01,0,Historical,0.0,0.0
+Kedah,2021-05-01,0,Historical,0.0,0.0
+Kedah,2021-06-01,0,Historical,0.0,0.0
+Kedah,2021-07-01,0,Historical,0.0,0.0
+Kedah,2021-08-01,0,Historical,0.0,0.0
+Kedah,2021-09-01,0,Historical,0.0,0.0
+Kedah,2021-10-01,1,Historical,0.0,0.0
+Kedah,2021-11-01,0,Historical,0.0,0.0
+Kedah,2021-12-01,0,Historical,0.0,0.0
+Kedah,2022-01-01,0,Historical,0.0,0.0
+Kedah,2022-02-01,0,Historical,0.0,0.0
+Kedah,2022-03-01,1,Historical,0.0,0.0
+Kedah,2022-04-01,2,Historical,0.0,0.0
+Kedah,2022-05-01,1,Historical,0.0,0.0
+Kedah,2022-06-01,3,Historical,0.0,0.0
+Kedah,2022-07-01,2,Historical,0.0,0.0
+Kedah,2022-08-01,2,Historical,0.0,0.0
+Kedah,2022-09-01,5,Historical,0.0,0.0
+Kedah,2022-10-01,5,Historical,0.0,0.0
+Kedah,2022-11-01,4,Historical,0.0,0.0
+Kedah,2022-12-01,11,Historical,0.0,0.0
+Kedah,2023-01-01,7,Historical,0.0,0.0
+Kedah,2023-02-01,8,Historical,0.0,0.0
+Kedah,2023-03-01,14,Historical,15.0,0.0666666666666666
+Kedah,2023-04-01,9,Historical,15.0,0.0666666666666666
+Kedah,2023-05-01,14,Historical,15.0,0.0666666666666666
+Kedah,2023-06-01,23,Historical,15.0,0.0666666666666666
+Kedah,2023-07-01,22,Historical,21.0,0.238095238095238
+Kedah,2023-08-01,21,Historical,25.0,0.36
+Kedah,2023-09-01,15,Historical,25.0,0.36
+Kedah,2023-10-01,40,Historical,31.0,0.3225806451612903
+Kedah,2023-11-01,30,Historical,31.0,0.3225806451612903
+Kedah,2023-12-01,62,Historical,34.0,0.3235294117647059
+Kedah,2024-01-01,28,Historical,34.0,0.3235294117647059
+Kedah,2024-02-01,25,Historical,34.0,0.3235294117647059
+Kedah,2024-03-01,54,Historical,34.0,0.3235294117647059
+Kedah,2024-04-01,41,Historical,34.0,0.3235294117647059
+Kedah,2024-05-01,46,Historical,34.0,0.3235294117647059
+Kedah,2024-06-01,33,Historical,45.0,0.3555555555555555
+Kedah,2024-07-01,39,Historical,45.0,0.3555555555555555
+Kedah,2024-08-01,33,Historical,52.0,0.3653846153846153
+Kedah,2024-09-01,39,Historical,54.0,0.3888888888888889
+Kedah,2024-10-01,36,Historical,71.0,0.4225352112676056
+Kedah,2024-11-01,37,Historical,71.0,0.4225352112676056
+Kedah,2024-12-01,55,Historical,76.0,0.4210526315789473
+Kedah,2025-01-01,52,Historical,76.0,0.4210526315789473
+Kedah,2025-02-01,49,Historical,76.0,0.4210526315789473
+Kedah,2025-03-01,64,Historical,76.0,0.4210526315789473
+Kedah,2025-04-01,58,Historical,76.0,0.4210526315789473
+Kedah,2025-05-01,79,Historical,97.0,0.4123711340206185
+Kedah,2025-06-01,57,Historical,97.0,0.4123711340206185
+Kedah,2025-07-01,60,Historical,97.0,0.4123711340206185
+Kedah,2025-08-01,70,Historical,97.0,0.4123711340206185
+Kedah,2025-09-01,72,Historical,97.0,0.4123711340206185
+Kedah,2025-09-01,66,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2025-10-01,78,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2025-11-01,82,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2025-12-01,117,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-01-01,96,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-02-01,87,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-03-01,128,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-04-01,139,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-05-01,175,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-06-01,139,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-07-01,147,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-08-01,147,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-09-01,149,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-10-01,169,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-11-01,188,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2026-12-01,255,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-01-01,231,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-02-01,208,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-03-01,273,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-04-01,264,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-05-01,309,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-06-01,248,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-07-01,229,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-08-01,241,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-09-01,255,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-10-01,267,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-11-01,299,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2027-12-01,358,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-01-01,287,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-02-01,272,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-03-01,379,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-04-01,338,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-05-01,440,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-06-01,363,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-07-01,370,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-08-01,382,XGBoost Forecast,97.0,0.4123711340206185
+Kedah,2028-09-01,348,XGBoost Forecast,97.0,0.4123711340206185
+Kelantan,2020-01-01,1,Historical,0.0,0.0
+Kelantan,2020-02-01,0,Historical,0.0,0.0
+Kelantan,2020-03-01,1,Historical,0.0,0.0
+Kelantan,2020-04-01,0,Historical,0.0,0.0
+Kelantan,2020-05-01,0,Historical,0.0,0.0
+Kelantan,2020-06-01,0,Historical,0.0,0.0
+Kelantan,2020-07-01,0,Historical,0.0,0.0
+Kelantan,2020-08-01,0,Historical,0.0,0.0
+Kelantan,2020-09-01,1,Historical,0.0,0.0
+Kelantan,2020-10-01,0,Historical,0.0,0.0
+Kelantan,2020-11-01,0,Historical,0.0,0.0
+Kelantan,2020-12-01,0,Historical,0.0,0.0
+Kelantan,2021-01-01,0,Historical,0.0,0.0
+Kelantan,2021-02-01,0,Historical,0.0,0.0
+Kelantan,2021-03-01,0,Historical,0.0,0.0
+Kelantan,2021-04-01,0,Historical,0.0,0.0
+Kelantan,2021-05-01,0,Historical,0.0,0.0
+Kelantan,2021-06-01,0,Historical,0.0,0.0
+Kelantan,2021-07-01,0,Historical,0.0,0.0
+Kelantan,2021-08-01,0,Historical,0.0,0.0
+Kelantan,2021-09-01,0,Historical,0.0,0.0
+Kelantan,2021-10-01,0,Historical,0.0,0.0
+Kelantan,2021-11-01,0,Historical,0.0,0.0
+Kelantan,2021-12-01,0,Historical,0.0,0.0
+Kelantan,2022-01-01,0,Historical,0.0,0.0
+Kelantan,2022-02-01,0,Historical,0.0,0.0
+Kelantan,2022-03-01,0,Historical,0.0,0.0
+Kelantan,2022-04-01,2,Historical,0.0,0.0
+Kelantan,2022-05-01,0,Historical,0.0,0.0
+Kelantan,2022-06-01,0,Historical,0.0,0.0
+Kelantan,2022-07-01,0,Historical,0.0,0.0
+Kelantan,2022-08-01,1,Historical,0.0,0.0
+Kelantan,2022-09-01,2,Historical,0.0,0.0
+Kelantan,2022-10-01,2,Historical,0.0,0.0
+Kelantan,2022-11-01,1,Historical,0.0,0.0
+Kelantan,2022-12-01,2,Historical,0.0,0.0
+Kelantan,2023-01-01,1,Historical,0.0,0.0
+Kelantan,2023-02-01,1,Historical,0.0,0.0
+Kelantan,2023-03-01,3,Historical,0.0,0.0
+Kelantan,2023-04-01,2,Historical,0.0,0.0
+Kelantan,2023-05-01,4,Historical,0.0,0.0
+Kelantan,2023-06-01,4,Historical,0.0,0.0
+Kelantan,2023-07-01,5,Historical,5.0,0.4
+Kelantan,2023-08-01,3,Historical,5.0,0.4
+Kelantan,2023-09-01,3,Historical,5.0,0.4
+Kelantan,2023-10-01,5,Historical,5.0,0.4
+Kelantan,2023-11-01,6,Historical,5.0,0.4
+Kelantan,2023-12-01,13,Historical,7.0,0.5714285714285714
+Kelantan,2024-01-01,8,Historical,7.0,0.5714285714285714
+Kelantan,2024-02-01,4,Historical,7.0,0.5714285714285714
+Kelantan,2024-03-01,12,Historical,7.0,0.5714285714285714
+Kelantan,2024-04-01,7,Historical,7.0,0.5714285714285714
+Kelantan,2024-05-01,10,Historical,7.0,0.5714285714285714
+Kelantan,2024-06-01,12,Historical,9.0,0.6666666666666666
+Kelantan,2024-07-01,11,Historical,9.0,0.6666666666666666
+Kelantan,2024-08-01,14,Historical,13.0,0.6153846153846154
+Kelantan,2024-09-01,14,Historical,13.0,0.6153846153846154
+Kelantan,2024-10-01,7,Historical,21.0,0.7619047619047619
+Kelantan,2024-11-01,8,Historical,21.0,0.7619047619047619
+Kelantan,2024-12-01,13,Historical,21.0,0.7619047619047619
+Kelantan,2025-01-01,14,Historical,21.0,0.7619047619047619
+Kelantan,2025-02-01,13,Historical,21.0,0.7619047619047619
+Kelantan,2025-03-01,19,Historical,21.0,0.7619047619047619
+Kelantan,2025-04-01,21,Historical,21.0,0.7619047619047619
+Kelantan,2025-05-01,22,Historical,27.0,0.8148148148148148
+Kelantan,2025-06-01,17,Historical,27.0,0.8148148148148148
+Kelantan,2025-07-01,16,Historical,27.0,0.8148148148148148
+Kelantan,2025-08-01,21,Historical,27.0,0.8148148148148148
+Kelantan,2025-09-01,19,Historical,27.0,0.8148148148148148
+Kelantan,2025-09-01,19,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2025-10-01,21,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2025-11-01,22,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2025-12-01,32,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-01-01,25,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-02-01,24,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-03-01,31,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-04-01,37,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-05-01,43,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-06-01,39,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-07-01,34,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-08-01,38,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-09-01,38,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-10-01,39,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-11-01,41,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2026-12-01,65,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-01-01,45,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-02-01,45,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-03-01,59,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-04-01,54,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-05-01,70,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-06-01,57,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-07-01,52,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-08-01,53,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-09-01,50,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-10-01,51,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-11-01,52,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2027-12-01,77,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-01-01,54,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-02-01,52,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-03-01,71,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-04-01,67,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-05-01,83,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-06-01,66,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-07-01,66,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-08-01,70,XGBoost Forecast,27.0,0.8148148148148148
+Kelantan,2028-09-01,64,XGBoost Forecast,27.0,0.8148148148148148
+Melaka,2020-01-01,0,Historical,0.0,0.0
+Melaka,2020-02-01,0,Historical,0.0,0.0
+Melaka,2020-03-01,0,Historical,0.0,0.0
+Melaka,2020-04-01,0,Historical,0.0,0.0
+Melaka,2020-05-01,0,Historical,0.0,0.0
+Melaka,2020-06-01,0,Historical,0.0,0.0
+Melaka,2020-07-01,0,Historical,0.0,0.0
+Melaka,2020-08-01,0,Historical,0.0,0.0
+Melaka,2020-09-01,0,Historical,0.0,0.0
+Melaka,2020-10-01,0,Historical,0.0,0.0
+Melaka,2020-11-01,0,Historical,0.0,0.0
+Melaka,2020-12-01,0,Historical,0.0,0.0
+Melaka,2021-01-01,0,Historical,0.0,0.0
+Melaka,2021-02-01,0,Historical,0.0,0.0
+Melaka,2021-03-01,0,Historical,0.0,0.0
+Melaka,2021-04-01,0,Historical,0.0,0.0
+Melaka,2021-05-01,0,Historical,0.0,0.0
+Melaka,2021-06-01,0,Historical,0.0,0.0
+Melaka,2021-07-01,0,Historical,0.0,0.0
+Melaka,2021-08-01,0,Historical,0.0,0.0
+Melaka,2021-09-01,0,Historical,0.0,0.0
+Melaka,2021-10-01,0,Historical,0.0,0.0
+Melaka,2021-11-01,0,Historical,0.0,0.0
+Melaka,2021-12-01,0,Historical,0.0,0.0
+Melaka,2022-01-01,0,Historical,0.0,0.0
+Melaka,2022-02-01,0,Historical,0.0,0.0
+Melaka,2022-03-01,2,Historical,0.0,0.0
+Melaka,2022-04-01,4,Historical,0.0,0.0
+Melaka,2022-05-01,4,Historical,0.0,0.0
+Melaka,2022-06-01,4,Historical,0.0,0.0
+Melaka,2022-07-01,4,Historical,0.0,0.0
+Melaka,2022-08-01,4,Historical,0.0,0.0
+Melaka,2022-09-01,12,Historical,0.0,0.0
+Melaka,2022-10-01,6,Historical,0.0,0.0
+Melaka,2022-11-01,8,Historical,0.0,0.0
+Melaka,2022-12-01,17,Historical,0.0,0.0
+Melaka,2023-01-01,5,Historical,0.0,0.0
+Melaka,2023-02-01,13,Historical,0.0,0.0
+Melaka,2023-03-01,25,Historical,10.0,0.3
+Melaka,2023-04-01,12,Historical,10.0,0.3
+Melaka,2023-05-01,18,Historical,10.0,0.3
+Melaka,2023-06-01,17,Historical,10.0,0.3
+Melaka,2023-07-01,16,Historical,15.0,0.4666666666666667
+Melaka,2023-08-01,20,Historical,17.0,0.5294117647058824
+Melaka,2023-09-01,14,Historical,17.0,0.5294117647058824
+Melaka,2023-10-01,26,Historical,24.0,0.375
+Melaka,2023-11-01,27,Historical,24.0,0.375
+Melaka,2023-12-01,58,Historical,36.0,0.4166666666666667
+Melaka,2024-01-01,37,Historical,36.0,0.4166666666666667
+Melaka,2024-02-01,29,Historical,36.0,0.4166666666666667
+Melaka,2024-03-01,50,Historical,36.0,0.4166666666666667
+Melaka,2024-04-01,41,Historical,36.0,0.4166666666666667
+Melaka,2024-05-01,55,Historical,36.0,0.4166666666666667
+Melaka,2024-06-01,40,Historical,36.0,0.4166666666666667
+Melaka,2024-07-01,46,Historical,36.0,0.4166666666666667
+Melaka,2024-08-01,36,Historical,36.0,0.4166666666666667
+Melaka,2024-09-01,34,Historical,50.0,0.38
+Melaka,2024-10-01,32,Historical,84.0,0.3928571428571428
+Melaka,2024-11-01,39,Historical,84.0,0.3928571428571428
+Melaka,2024-12-01,71,Historical,90.0,0.4111111111111111
+Melaka,2025-01-01,35,Historical,90.0,0.4111111111111111
+Melaka,2025-02-01,48,Historical,90.0,0.4111111111111111
+Melaka,2025-03-01,67,Historical,90.0,0.4111111111111111
+Melaka,2025-04-01,78,Historical,90.0,0.4111111111111111
+Melaka,2025-05-01,104,Historical,115.0,0.391304347826087
+Melaka,2025-06-01,74,Historical,115.0,0.391304347826087
+Melaka,2025-07-01,72,Historical,115.0,0.391304347826087
+Melaka,2025-08-01,85,Historical,115.0,0.391304347826087
+Melaka,2025-09-01,89,Historical,115.0,0.391304347826087
+Melaka,2025-09-01,84,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2025-10-01,89,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2025-11-01,98,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2025-12-01,143,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-01-01,132,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-02-01,128,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-03-01,170,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-04-01,155,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-05-01,188,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-06-01,175,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-07-01,188,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-08-01,194,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-09-01,202,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-10-01,215,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-11-01,246,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2026-12-01,314,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-01-01,226,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-02-01,222,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-03-01,297,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-04-01,278,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-05-01,357,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-06-01,274,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-07-01,271,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-08-01,301,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-09-01,291,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-10-01,288,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-11-01,318,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2027-12-01,402,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-01-01,287,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-02-01,294,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-03-01,405,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-04-01,367,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-05-01,471,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-06-01,361,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-07-01,392,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-08-01,401,XGBoost Forecast,115.0,0.391304347826087
+Melaka,2028-09-01,365,XGBoost Forecast,115.0,0.391304347826087
+Negeri Sembilan,2020-01-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-02-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-03-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-04-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-05-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-06-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-07-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-08-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-09-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-10-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-11-01,0,Historical,0.0,0.0
+Negeri Sembilan,2020-12-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-01-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-02-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-03-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-04-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-05-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-06-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-07-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-08-01,1,Historical,0.0,0.0
+Negeri Sembilan,2021-09-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-10-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-11-01,0,Historical,0.0,0.0
+Negeri Sembilan,2021-12-01,0,Historical,0.0,0.0
+Negeri Sembilan,2022-01-01,0,Historical,0.0,0.0
+Negeri Sembilan,2022-02-01,0,Historical,0.0,0.0
+Negeri Sembilan,2022-03-01,2,Historical,0.0,0.0
+Negeri Sembilan,2022-04-01,2,Historical,0.0,0.0
+Negeri Sembilan,2022-05-01,1,Historical,0.0,0.0
+Negeri Sembilan,2022-06-01,1,Historical,0.0,0.0
+Negeri Sembilan,2022-07-01,2,Historical,0.0,0.0
+Negeri Sembilan,2022-08-01,2,Historical,0.0,0.0
+Negeri Sembilan,2022-09-01,7,Historical,0.0,0.0
+Negeri Sembilan,2022-10-01,3,Historical,0.0,0.0
+Negeri Sembilan,2022-11-01,4,Historical,0.0,0.0
+Negeri Sembilan,2022-12-01,10,Historical,0.0,0.0
+Negeri Sembilan,2023-01-01,6,Historical,0.0,0.0
+Negeri Sembilan,2023-02-01,6,Historical,0.0,0.0
+Negeri Sembilan,2023-03-01,12,Historical,9.0,0.5555555555555556
+Negeri Sembilan,2023-04-01,12,Historical,9.0,0.5555555555555556
+Negeri Sembilan,2023-05-01,16,Historical,9.0,0.5555555555555556
+Negeri Sembilan,2023-06-01,15,Historical,9.0,0.5555555555555556
+Negeri Sembilan,2023-07-01,8,Historical,13.0,0.6153846153846154
+Negeri Sembilan,2023-08-01,13,Historical,17.0,0.7058823529411765
+Negeri Sembilan,2023-09-01,7,Historical,17.0,0.7058823529411765
+Negeri Sembilan,2023-10-01,11,Historical,24.0,0.5833333333333334
+Negeri Sembilan,2023-11-01,22,Historical,24.0,0.5833333333333334
+Negeri Sembilan,2023-12-01,41,Historical,30.0,0.4666666666666667
+Negeri Sembilan,2024-01-01,26,Historical,30.0,0.4666666666666667
+Negeri Sembilan,2024-02-01,13,Historical,30.0,0.4666666666666667
+Negeri Sembilan,2024-03-01,27,Historical,32.0,0.5
+Negeri Sembilan,2024-04-01,24,Historical,34.0,0.5294117647058824
+Negeri Sembilan,2024-05-01,37,Historical,34.0,0.5294117647058824
+Negeri Sembilan,2024-06-01,32,Historical,50.0,0.62
+Negeri Sembilan,2024-07-01,46,Historical,50.0,0.62
+Negeri Sembilan,2024-08-01,38,Historical,59.0,0.5254237288135594
+Negeri Sembilan,2024-09-01,19,Historical,59.0,0.5254237288135594
+Negeri Sembilan,2024-10-01,23,Historical,81.0,0.5061728395061729
+Negeri Sembilan,2024-11-01,27,Historical,81.0,0.5061728395061729
+Negeri Sembilan,2024-12-01,33,Historical,91.0,0.4945054945054945
+Negeri Sembilan,2025-01-01,23,Historical,91.0,0.4945054945054945
+Negeri Sembilan,2025-02-01,29,Historical,91.0,0.4945054945054945
+Negeri Sembilan,2025-03-01,45,Historical,91.0,0.4945054945054945
+Negeri Sembilan,2025-04-01,37,Historical,91.0,0.4945054945054945
+Negeri Sembilan,2025-05-01,55,Historical,97.0,0.5051546391752577
+Negeri Sembilan,2025-06-01,45,Historical,97.0,0.5051546391752577
+Negeri Sembilan,2025-07-01,45,Historical,97.0,0.5051546391752577
+Negeri Sembilan,2025-08-01,47,Historical,97.0,0.5051546391752577
+Negeri Sembilan,2025-09-01,47,Historical,97.0,0.5051546391752577
+Negeri Sembilan,2025-09-01,46,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2025-10-01,51,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2025-11-01,55,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2025-12-01,78,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-01-01,57,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-02-01,57,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-03-01,82,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-04-01,76,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-05-01,101,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-06-01,86,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-07-01,83,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-08-01,85,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-09-01,81,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-10-01,86,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-11-01,98,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2026-12-01,130,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-01-01,127,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-02-01,123,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-03-01,162,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-04-01,152,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-05-01,181,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-06-01,159,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-07-01,168,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-08-01,178,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-09-01,174,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-10-01,190,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-11-01,199,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2027-12-01,280,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-01-01,218,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-02-01,201,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-03-01,262,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-04-01,256,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-05-01,301,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-06-01,244,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-07-01,221,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-08-01,235,XGBoost Forecast,97.0,0.5051546391752577
+Negeri Sembilan,2028-09-01,222,XGBoost Forecast,97.0,0.5051546391752577
+Pahang,2020-01-01,0,Historical,0.0,0.0
+Pahang,2020-02-01,0,Historical,0.0,0.0
+Pahang,2020-03-01,0,Historical,0.0,0.0
+Pahang,2020-04-01,0,Historical,0.0,0.0
+Pahang,2020-05-01,0,Historical,0.0,0.0
+Pahang,2020-06-01,0,Historical,0.0,0.0
+Pahang,2020-07-01,0,Historical,0.0,0.0
+Pahang,2020-08-01,0,Historical,0.0,0.0
+Pahang,2020-09-01,0,Historical,0.0,0.0
+Pahang,2020-10-01,0,Historical,0.0,0.0
+Pahang,2020-11-01,0,Historical,0.0,0.0
+Pahang,2020-12-01,0,Historical,0.0,0.0
+Pahang,2021-01-01,0,Historical,0.0,0.0
+Pahang,2021-02-01,0,Historical,0.0,0.0
+Pahang,2021-03-01,0,Historical,0.0,0.0
+Pahang,2021-04-01,0,Historical,0.0,0.0
+Pahang,2021-05-01,0,Historical,0.0,0.0
+Pahang,2021-06-01,0,Historical,0.0,0.0
+Pahang,2021-07-01,0,Historical,0.0,0.0
+Pahang,2021-08-01,0,Historical,0.0,0.0
+Pahang,2021-09-01,0,Historical,0.0,0.0
+Pahang,2021-10-01,0,Historical,0.0,0.0
+Pahang,2021-11-01,0,Historical,0.0,0.0
+Pahang,2021-12-01,0,Historical,0.0,0.0
+Pahang,2022-01-01,0,Historical,0.0,0.0
+Pahang,2022-02-01,0,Historical,0.0,0.0
+Pahang,2022-03-01,1,Historical,0.0,0.0
+Pahang,2022-04-01,2,Historical,0.0,0.0
+Pahang,2022-05-01,1,Historical,0.0,0.0
+Pahang,2022-06-01,1,Historical,0.0,0.0
+Pahang,2022-07-01,2,Historical,0.0,0.0
+Pahang,2022-08-01,2,Historical,0.0,0.0
+Pahang,2022-09-01,5,Historical,0.0,0.0
+Pahang,2022-10-01,3,Historical,0.0,0.0
+Pahang,2022-11-01,3,Historical,0.0,0.0
+Pahang,2022-12-01,6,Historical,0.0,0.0
+Pahang,2023-01-01,3,Historical,0.0,0.0
+Pahang,2023-02-01,4,Historical,0.0,0.0
+Pahang,2023-03-01,10,Historical,12.0,0.1666666666666666
+Pahang,2023-04-01,7,Historical,12.0,0.1666666666666666
+Pahang,2023-05-01,12,Historical,12.0,0.1666666666666666
+Pahang,2023-06-01,9,Historical,12.0,0.1666666666666666
+Pahang,2023-07-01,8,Historical,19.0,0.2105263157894736
+Pahang,2023-08-01,11,Historical,21.0,0.2857142857142857
+Pahang,2023-09-01,7,Historical,21.0,0.2857142857142857
+Pahang,2023-10-01,11,Historical,27.0,0.3703703703703703
+Pahang,2023-11-01,17,Historical,27.0,0.3703703703703703
+Pahang,2023-12-01,31,Historical,32.0,0.375
+Pahang,2024-01-01,16,Historical,32.0,0.375
+Pahang,2024-02-01,11,Historical,32.0,0.375
+Pahang,2024-03-01,30,Historical,38.0,0.4210526315789473
+Pahang,2024-04-01,18,Historical,39.0,0.4102564102564102
+Pahang,2024-05-01,24,Historical,39.0,0.4102564102564102
+Pahang,2024-06-01,23,Historical,57.0,0.4210526315789473
+Pahang,2024-07-01,30,Historical,57.0,0.4210526315789473
+Pahang,2024-08-01,25,Historical,77.0,0.4415584415584415
+Pahang,2024-09-01,16,Historical,77.0,0.4415584415584415
+Pahang,2024-10-01,17,Historical,101.0,0.4158415841584158
+Pahang,2024-11-01,28,Historical,101.0,0.4158415841584158
+Pahang,2024-12-01,34,Historical,104.0,0.4326923076923077
+Pahang,2025-01-01,28,Historical,104.0,0.4326923076923077
+Pahang,2025-02-01,40,Historical,104.0,0.4326923076923077
+Pahang,2025-03-01,49,Historical,104.0,0.4326923076923077
+Pahang,2025-04-01,47,Historical,104.0,0.4326923076923077
+Pahang,2025-05-01,68,Historical,122.0,0.4344262295081967
+Pahang,2025-06-01,56,Historical,122.0,0.4344262295081967
+Pahang,2025-07-01,44,Historical,122.0,0.4344262295081967
+Pahang,2025-08-01,51,Historical,122.0,0.4344262295081967
+Pahang,2025-09-01,50,Historical,122.0,0.4344262295081967
+Pahang,2025-09-01,53,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2025-10-01,55,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2025-11-01,59,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2025-12-01,85,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-01-01,58,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-02-01,65,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-03-01,98,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-04-01,92,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-05-01,119,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-06-01,92,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-07-01,94,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-08-01,105,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-09-01,114,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-10-01,123,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-11-01,135,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2026-12-01,209,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-01-01,136,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-02-01,152,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-03-01,187,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-04-01,196,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-05-01,261,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-06-01,223,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-07-01,215,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-08-01,234,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-09-01,207,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-10-01,208,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-11-01,234,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2027-12-01,310,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-01-01,223,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-02-01,222,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-03-01,298,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-04-01,282,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-05-01,356,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-06-01,272,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-07-01,268,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-08-01,299,XGBoost Forecast,122.0,0.4344262295081967
+Pahang,2028-09-01,286,XGBoost Forecast,122.0,0.4344262295081967
+Perak,2020-01-01,0,Historical,0.0,0.0
+Perak,2020-02-01,0,Historical,0.0,0.0
+Perak,2020-03-01,0,Historical,0.0,0.0
+Perak,2020-04-01,0,Historical,0.0,0.0
+Perak,2020-05-01,0,Historical,0.0,0.0
+Perak,2020-06-01,0,Historical,0.0,0.0
+Perak,2020-07-01,0,Historical,0.0,0.0
+Perak,2020-08-01,0,Historical,0.0,0.0
+Perak,2020-09-01,0,Historical,0.0,0.0
+Perak,2020-10-01,0,Historical,0.0,0.0
+Perak,2020-11-01,0,Historical,0.0,0.0
+Perak,2020-12-01,0,Historical,0.0,0.0
+Perak,2021-01-01,0,Historical,0.0,0.0
+Perak,2021-02-01,0,Historical,0.0,0.0
+Perak,2021-03-01,0,Historical,0.0,0.0
+Perak,2021-04-01,0,Historical,0.0,0.0
+Perak,2021-05-01,2,Historical,0.0,0.0
+Perak,2021-06-01,0,Historical,0.0,0.0
+Perak,2021-07-01,0,Historical,0.0,0.0
+Perak,2021-08-01,1,Historical,0.0,0.0
+Perak,2021-09-01,0,Historical,0.0,0.0
+Perak,2021-10-01,0,Historical,0.0,0.0
+Perak,2021-11-01,0,Historical,0.0,0.0
+Perak,2021-12-01,0,Historical,0.0,0.0
+Perak,2022-01-01,0,Historical,0.0,0.0
+Perak,2022-02-01,0,Historical,0.0,0.0
+Perak,2022-03-01,3,Historical,0.0,0.0
+Perak,2022-04-01,3,Historical,0.0,0.0
+Perak,2022-05-01,7,Historical,0.0,0.0
+Perak,2022-06-01,3,Historical,0.0,0.0
+Perak,2022-07-01,4,Historical,0.0,0.0
+Perak,2022-08-01,7,Historical,0.0,0.0
+Perak,2022-09-01,24,Historical,0.0,0.0
+Perak,2022-10-01,15,Historical,0.0,0.0
+Perak,2022-11-01,11,Historical,0.0,0.0
+Perak,2022-12-01,29,Historical,0.0,0.0
+Perak,2023-01-01,15,Historical,0.0,0.0
+Perak,2023-02-01,16,Historical,0.0,0.0
+Perak,2023-03-01,27,Historical,19.0,0.2105263157894736
+Perak,2023-04-01,23,Historical,19.0,0.2105263157894736
+Perak,2023-05-01,39,Historical,19.0,0.2105263157894736
+Perak,2023-06-01,31,Historical,19.0,0.2105263157894736
+Perak,2023-07-01,33,Historical,21.0,0.2857142857142857
+Perak,2023-08-01,34,Historical,25.0,0.4
+Perak,2023-09-01,35,Historical,25.0,0.4
+Perak,2023-10-01,45,Historical,30.0,0.4666666666666667
+Perak,2023-11-01,42,Historical,30.0,0.4666666666666667
+Perak,2023-12-01,96,Historical,36.0,0.5555555555555556
+Perak,2024-01-01,40,Historical,36.0,0.5555555555555556
+Perak,2024-02-01,27,Historical,36.0,0.5555555555555556
+Perak,2024-03-01,72,Historical,36.0,0.5555555555555556
+Perak,2024-04-01,44,Historical,37.0,0.5405405405405406
+Perak,2024-05-01,76,Historical,37.0,0.5405405405405406
+Perak,2024-06-01,60,Historical,52.0,0.6346153846153846
+Perak,2024-07-01,57,Historical,52.0,0.6346153846153846
+Perak,2024-08-01,52,Historical,62.0,0.6935483870967742
+Perak,2024-09-01,44,Historical,63.0,0.6825396825396826
+Perak,2024-10-01,47,Historical,114.0,0.5
+Perak,2024-11-01,55,Historical,114.0,0.5
+Perak,2024-12-01,68,Historical,136.0,0.5073529411764706
+Perak,2025-01-01,47,Historical,136.0,0.5073529411764706
+Perak,2025-02-01,58,Historical,136.0,0.5073529411764706
+Perak,2025-03-01,81,Historical,136.0,0.5073529411764706
+Perak,2025-04-01,86,Historical,136.0,0.5073529411764706
+Perak,2025-05-01,114,Historical,162.0,0.5370370370370371
+Perak,2025-06-01,98,Historical,162.0,0.5370370370370371
+Perak,2025-07-01,79,Historical,162.0,0.5370370370370371
+Perak,2025-08-01,90,Historical,162.0,0.5370370370370371
+Perak,2025-09-01,98,Historical,162.0,0.5370370370370371
+Perak,2025-09-01,94,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2025-10-01,116,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2025-11-01,132,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2025-12-01,197,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-01-01,134,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-02-01,151,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-03-01,186,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-04-01,195,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-05-01,272,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-06-01,229,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-07-01,215,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-08-01,235,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-09-01,205,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-10-01,204,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-11-01,230,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2026-12-01,309,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-01-01,224,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-02-01,206,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-03-01,277,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-04-01,265,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-05-01,329,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-06-01,285,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-07-01,275,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-08-01,280,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-09-01,269,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-10-01,279,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-11-01,294,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2027-12-01,388,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-01-01,287,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-02-01,293,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-03-01,406,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-04-01,375,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-05-01,488,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-06-01,373,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-07-01,398,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-08-01,445,XGBoost Forecast,162.0,0.5370370370370371
+Perak,2028-09-01,365,XGBoost Forecast,162.0,0.5370370370370371
+Perlis,2020-01-01,0,Historical,0.0,0.0
+Perlis,2020-02-01,0,Historical,0.0,0.0
+Perlis,2020-03-01,0,Historical,0.0,0.0
+Perlis,2020-04-01,0,Historical,0.0,0.0
+Perlis,2020-05-01,0,Historical,0.0,0.0
+Perlis,2020-06-01,0,Historical,0.0,0.0
+Perlis,2020-07-01,0,Historical,0.0,0.0
+Perlis,2020-08-01,0,Historical,0.0,0.0
+Perlis,2020-09-01,0,Historical,0.0,0.0
+Perlis,2020-10-01,0,Historical,0.0,0.0
+Perlis,2020-11-01,0,Historical,0.0,0.0
+Perlis,2020-12-01,0,Historical,0.0,0.0
+Perlis,2021-01-01,0,Historical,0.0,0.0
+Perlis,2021-02-01,0,Historical,0.0,0.0
+Perlis,2021-03-01,0,Historical,0.0,0.0
+Perlis,2021-04-01,0,Historical,0.0,0.0
+Perlis,2021-05-01,0,Historical,0.0,0.0
+Perlis,2021-06-01,0,Historical,0.0,0.0
+Perlis,2021-07-01,0,Historical,0.0,0.0
+Perlis,2021-08-01,0,Historical,0.0,0.0
+Perlis,2021-09-01,0,Historical,0.0,0.0
+Perlis,2021-10-01,0,Historical,0.0,0.0
+Perlis,2021-11-01,0,Historical,0.0,0.0
+Perlis,2021-12-01,0,Historical,0.0,0.0
+Perlis,2022-01-01,0,Historical,0.0,0.0
+Perlis,2022-02-01,0,Historical,0.0,0.0
+Perlis,2022-03-01,0,Historical,0.0,0.0
+Perlis,2022-04-01,1,Historical,0.0,0.0
+Perlis,2022-05-01,0,Historical,0.0,0.0
+Perlis,2022-06-01,0,Historical,0.0,0.0
+Perlis,2022-07-01,0,Historical,0.0,0.0
+Perlis,2022-08-01,1,Historical,0.0,0.0
+Perlis,2022-09-01,1,Historical,0.0,0.0
+Perlis,2022-10-01,1,Historical,0.0,0.0
+Perlis,2022-11-01,1,Historical,0.0,0.0
+Perlis,2022-12-01,2,Historical,0.0,0.0
+Perlis,2023-01-01,1,Historical,0.0,0.0
+Perlis,2023-02-01,2,Historical,0.0,0.0
+Perlis,2023-03-01,3,Historical,0.0,0.0
+Perlis,2023-04-01,2,Historical,0.0,0.0
+Perlis,2023-05-01,3,Historical,0.0,0.0
+Perlis,2023-06-01,3,Historical,0.0,0.0
+Perlis,2023-07-01,3,Historical,0.0,0.0
+Perlis,2023-08-01,3,Historical,0.0,0.0
+Perlis,2023-09-01,2,Historical,0.0,0.0
+Perlis,2023-10-01,6,Historical,0.0,0.0
+Perlis,2023-11-01,6,Historical,0.0,0.0
+Perlis,2023-12-01,10,Historical,2.0,1.0
+Perlis,2024-01-01,5,Historical,2.0,1.0
+Perlis,2024-02-01,4,Historical,2.0,1.0
+Perlis,2024-03-01,11,Historical,2.0,1.0
+Perlis,2024-04-01,7,Historical,2.0,1.0
+Perlis,2024-05-01,11,Historical,2.0,1.0
+Perlis,2024-06-01,9,Historical,2.0,1.0
+Perlis,2024-07-01,6,Historical,2.0,1.0
+Perlis,2024-08-01,9,Historical,2.0,1.0
+Perlis,2024-09-01,5,Historical,2.0,1.0
+Perlis,2024-10-01,6,Historical,2.0,1.0
+Perlis,2024-11-01,10,Historical,2.0,1.0
+Perlis,2024-12-01,11,Historical,2.0,1.0
+Perlis,2025-01-01,6,Historical,2.0,1.0
+Perlis,2025-02-01,15,Historical,2.0,1.0
+Perlis,2025-03-01,11,Historical,2.0,1.0
+Perlis,2025-04-01,14,Historical,2.0,1.0
+Perlis,2025-05-01,20,Historical,2.0,1.0
+Perlis,2025-06-01,15,Historical,2.0,1.0
+Perlis,2025-07-01,11,Historical,2.0,1.0
+Perlis,2025-08-01,16,Historical,2.0,1.0
+Perlis,2025-09-01,16,Historical,2.0,1.0
+Perlis,2025-09-01,15,XGBoost Forecast,2.0,1.0
+Perlis,2025-10-01,14,XGBoost Forecast,2.0,1.0
+Perlis,2025-11-01,17,XGBoost Forecast,2.0,1.0
+Perlis,2025-12-01,23,XGBoost Forecast,2.0,1.0
+Perlis,2026-01-01,18,XGBoost Forecast,2.0,1.0
+Perlis,2026-02-01,20,XGBoost Forecast,2.0,1.0
+Perlis,2026-03-01,25,XGBoost Forecast,2.0,1.0
+Perlis,2026-04-01,26,XGBoost Forecast,2.0,1.0
+Perlis,2026-05-01,31,XGBoost Forecast,2.0,1.0
+Perlis,2026-06-01,28,XGBoost Forecast,2.0,1.0
+Perlis,2026-07-01,29,XGBoost Forecast,2.0,1.0
+Perlis,2026-08-01,35,XGBoost Forecast,2.0,1.0
+Perlis,2026-09-01,32,XGBoost Forecast,2.0,1.0
+Perlis,2026-10-01,36,XGBoost Forecast,2.0,1.0
+Perlis,2026-11-01,35,XGBoost Forecast,2.0,1.0
+Perlis,2026-12-01,53,XGBoost Forecast,2.0,1.0
+Perlis,2027-01-01,44,XGBoost Forecast,2.0,1.0
+Perlis,2027-02-01,48,XGBoost Forecast,2.0,1.0
+Perlis,2027-03-01,62,XGBoost Forecast,2.0,1.0
+Perlis,2027-04-01,57,XGBoost Forecast,2.0,1.0
+Perlis,2027-05-01,71,XGBoost Forecast,2.0,1.0
+Perlis,2027-06-01,60,XGBoost Forecast,2.0,1.0
+Perlis,2027-07-01,56,XGBoost Forecast,2.0,1.0
+Perlis,2027-08-01,56,XGBoost Forecast,2.0,1.0
+Perlis,2027-09-01,55,XGBoost Forecast,2.0,1.0
+Perlis,2027-10-01,56,XGBoost Forecast,2.0,1.0
+Perlis,2027-11-01,56,XGBoost Forecast,2.0,1.0
+Perlis,2027-12-01,77,XGBoost Forecast,2.0,1.0
+Perlis,2028-01-01,58,XGBoost Forecast,2.0,1.0
+Perlis,2028-02-01,62,XGBoost Forecast,2.0,1.0
+Perlis,2028-03-01,75,XGBoost Forecast,2.0,1.0
+Perlis,2028-04-01,76,XGBoost Forecast,2.0,1.0
+Perlis,2028-05-01,94,XGBoost Forecast,2.0,1.0
+Perlis,2028-06-01,82,XGBoost Forecast,2.0,1.0
+Perlis,2028-07-01,82,XGBoost Forecast,2.0,1.0
+Perlis,2028-08-01,81,XGBoost Forecast,2.0,1.0
+Perlis,2028-09-01,80,XGBoost Forecast,2.0,1.0
+Pulau Pinang,2020-01-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-02-01,1,Historical,0.0,0.0
+Pulau Pinang,2020-03-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-04-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-05-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-06-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-07-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-08-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-09-01,0,Historical,0.0,0.0
+Pulau Pinang,2020-10-01,1,Historical,0.0,0.0
+Pulau Pinang,2020-11-01,3,Historical,0.0,0.0
+Pulau Pinang,2020-12-01,0,Historical,0.0,0.0
+Pulau Pinang,2021-01-01,0,Historical,0.0,0.0
+Pulau Pinang,2021-02-01,1,Historical,0.0,0.0
+Pulau Pinang,2021-03-01,8,Historical,0.0,0.0
+Pulau Pinang,2021-04-01,4,Historical,0.0,0.0
+Pulau Pinang,2021-05-01,2,Historical,0.0,0.0
+Pulau Pinang,2021-06-01,0,Historical,0.0,0.0
+Pulau Pinang,2021-07-01,1,Historical,0.0,0.0
+Pulau Pinang,2021-08-01,6,Historical,0.0,0.0
+Pulau Pinang,2021-09-01,6,Historical,0.0,0.0
+Pulau Pinang,2021-10-01,2,Historical,0.0,0.0
+Pulau Pinang,2021-11-01,0,Historical,0.0,0.0
+Pulau Pinang,2021-12-01,0,Historical,0.0,0.0
+Pulau Pinang,2022-01-01,1,Historical,0.0,0.0
+Pulau Pinang,2022-02-01,6,Historical,0.0,0.0
+Pulau Pinang,2022-03-01,9,Historical,0.0,0.0
+Pulau Pinang,2022-04-01,24,Historical,0.0,0.0
+Pulau Pinang,2022-05-01,10,Historical,0.0,0.0
+Pulau Pinang,2022-06-01,12,Historical,0.0,0.0
+Pulau Pinang,2022-07-01,11,Historical,0.0,0.0
+Pulau Pinang,2022-08-01,18,Historical,0.0,0.0
+Pulau Pinang,2022-09-01,46,Historical,0.0,0.0
+Pulau Pinang,2022-10-01,21,Historical,0.0,0.0
+Pulau Pinang,2022-11-01,46,Historical,0.0,0.0
+Pulau Pinang,2022-12-01,61,Historical,0.0,0.0
+Pulau Pinang,2023-01-01,22,Historical,0.0,0.0
+Pulau Pinang,2023-02-01,31,Historical,0.0,0.0
+Pulau Pinang,2023-03-01,71,Historical,36.0,0.1944444444444444
+Pulau Pinang,2023-04-01,50,Historical,36.0,0.1944444444444444
+Pulau Pinang,2023-05-01,85,Historical,36.0,0.1944444444444444
+Pulau Pinang,2023-06-01,66,Historical,36.0,0.1944444444444444
+Pulau Pinang,2023-07-01,86,Historical,41.0,0.1951219512195122
+Pulau Pinang,2023-08-01,82,Historical,45.0,0.2
+Pulau Pinang,2023-09-01,90,Historical,45.0,0.2
+Pulau Pinang,2023-10-01,123,Historical,60.0,0.25
+Pulau Pinang,2023-11-01,135,Historical,60.0,0.25
+Pulau Pinang,2023-12-01,235,Historical,66.0,0.3181818181818182
+Pulau Pinang,2024-01-01,100,Historical,66.0,0.3181818181818182
+Pulau Pinang,2024-02-01,75,Historical,66.0,0.3181818181818182
+Pulau Pinang,2024-03-01,185,Historical,94.0,0.3191489361702128
+Pulau Pinang,2024-04-01,111,Historical,99.0,0.303030303030303
+Pulau Pinang,2024-05-01,180,Historical,99.0,0.303030303030303
+Pulau Pinang,2024-06-01,130,Historical,141.0,0.2765957446808511
+Pulau Pinang,2024-07-01,132,Historical,141.0,0.2765957446808511
+Pulau Pinang,2024-08-01,131,Historical,184.0,0.2608695652173913
+Pulau Pinang,2024-09-01,116,Historical,184.0,0.2608695652173913
+Pulau Pinang,2024-10-01,128,Historical,293.0,0.2150170648464164
+Pulau Pinang,2024-11-01,139,Historical,293.0,0.2150170648464164
+Pulau Pinang,2024-12-01,202,Historical,320.0,0.234375
+Pulau Pinang,2025-01-01,124,Historical,320.0,0.234375
+Pulau Pinang,2025-02-01,158,Historical,320.0,0.234375
+Pulau Pinang,2025-03-01,208,Historical,320.0,0.234375
+Pulau Pinang,2025-04-01,220,Historical,320.0,0.234375
+Pulau Pinang,2025-05-01,310,Historical,393.0,0.2519083969465648
+Pulau Pinang,2025-06-01,254,Historical,393.0,0.2519083969465648
+Pulau Pinang,2025-07-01,209,Historical,393.0,0.2519083969465648
+Pulau Pinang,2025-08-01,264,Historical,393.0,0.2519083969465648
+Pulau Pinang,2025-09-01,270,Historical,393.0,0.2519083969465648
+Pulau Pinang,2025-09-01,254,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2025-10-01,268,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2025-11-01,336,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2025-12-01,441,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-01-01,315,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-02-01,347,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-03-01,510,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-04-01,432,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-05-01,587,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-06-01,503,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-07-01,454,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-08-01,552,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-09-01,541,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-10-01,501,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-11-01,675,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2026-12-01,882,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-01-01,655,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-02-01,663,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-03-01,793,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-04-01,848,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-05-01,1072,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-06-01,850,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-07-01,853,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-08-01,876,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-09-01,870,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-10-01,902,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-11-01,961,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2027-12-01,1211,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-01-01,815,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-02-01,916,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-03-01,1217,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-04-01,1025,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-05-01,1206,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-06-01,1029,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-07-01,988,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-08-01,1010,XGBoost Forecast,393.0,0.2519083969465648
+Pulau Pinang,2028-09-01,940,XGBoost Forecast,393.0,0.2519083969465648
+Sabah,2020-01-01,0,Historical,0.0,0.0
+Sabah,2020-02-01,0,Historical,0.0,0.0
+Sabah,2020-03-01,0,Historical,0.0,0.0
+Sabah,2020-04-01,0,Historical,0.0,0.0
+Sabah,2020-05-01,0,Historical,0.0,0.0
+Sabah,2020-06-01,0,Historical,0.0,0.0
+Sabah,2020-07-01,0,Historical,0.0,0.0
+Sabah,2020-08-01,0,Historical,0.0,0.0
+Sabah,2020-09-01,0,Historical,0.0,0.0
+Sabah,2020-10-01,1,Historical,0.0,0.0
+Sabah,2020-11-01,0,Historical,0.0,0.0
+Sabah,2020-12-01,0,Historical,0.0,0.0
+Sabah,2021-01-01,0,Historical,0.0,0.0
+Sabah,2021-02-01,0,Historical,0.0,0.0
+Sabah,2021-03-01,0,Historical,0.0,0.0
+Sabah,2021-04-01,0,Historical,0.0,0.0
+Sabah,2021-05-01,0,Historical,0.0,0.0
+Sabah,2021-06-01,0,Historical,0.0,0.0
+Sabah,2021-07-01,0,Historical,0.0,0.0
+Sabah,2021-08-01,1,Historical,0.0,0.0
+Sabah,2021-09-01,1,Historical,0.0,0.0
+Sabah,2021-10-01,0,Historical,0.0,0.0
+Sabah,2021-11-01,0,Historical,0.0,0.0
+Sabah,2021-12-01,0,Historical,0.0,0.0
+Sabah,2022-01-01,0,Historical,0.0,0.0
+Sabah,2022-02-01,0,Historical,0.0,0.0
+Sabah,2022-03-01,2,Historical,0.0,0.0
+Sabah,2022-04-01,6,Historical,0.0,0.0
+Sabah,2022-05-01,4,Historical,0.0,0.0
+Sabah,2022-06-01,5,Historical,0.0,0.0
+Sabah,2022-07-01,4,Historical,0.0,0.0
+Sabah,2022-08-01,5,Historical,0.0,0.0
+Sabah,2022-09-01,15,Historical,0.0,0.0
+Sabah,2022-10-01,11,Historical,0.0,0.0
+Sabah,2022-11-01,10,Historical,0.0,0.0
+Sabah,2022-12-01,40,Historical,0.0,0.0
+Sabah,2023-01-01,8,Historical,0.0,0.0
+Sabah,2023-02-01,16,Historical,0.0,0.0
+Sabah,2023-03-01,30,Historical,1.0,0.0
+Sabah,2023-04-01,20,Historical,1.0,0.0
+Sabah,2023-05-01,31,Historical,1.0,0.0
+Sabah,2023-06-01,28,Historical,1.0,0.0
+Sabah,2023-07-01,27,Historical,1.0,0.0
+Sabah,2023-08-01,39,Historical,1.0,0.0
+Sabah,2023-09-01,38,Historical,1.0,0.0
+Sabah,2023-10-01,49,Historical,1.0,0.0
+Sabah,2023-11-01,69,Historical,1.0,0.0
+Sabah,2023-12-01,107,Historical,1.0,0.0
+Sabah,2024-01-01,52,Historical,1.0,0.0
+Sabah,2024-02-01,40,Historical,1.0,0.0
+Sabah,2024-03-01,92,Historical,1.0,0.0
+Sabah,2024-04-01,64,Historical,1.0,0.0
+Sabah,2024-05-01,95,Historical,1.0,0.0
+Sabah,2024-06-01,90,Historical,1.0,0.0
+Sabah,2024-07-01,83,Historical,1.0,0.0
+Sabah,2024-08-01,59,Historical,7.0,0.2857142857142857
+Sabah,2024-09-01,57,Historical,7.0,0.2857142857142857
+Sabah,2024-10-01,68,Historical,12.0,0.3333333333333333
+Sabah,2024-11-01,70,Historical,12.0,0.3333333333333333
+Sabah,2024-12-01,110,Historical,24.0,0.3333333333333333
+Sabah,2025-01-01,87,Historical,24.0,0.3333333333333333
+Sabah,2025-02-01,68,Historical,24.0,0.3333333333333333
+Sabah,2025-03-01,121,Historical,24.0,0.3333333333333333
+Sabah,2025-04-01,105,Historical,24.0,0.3333333333333333
+Sabah,2025-05-01,165,Historical,45.0,0.2888888888888888
+Sabah,2025-06-01,144,Historical,45.0,0.2888888888888888
+Sabah,2025-07-01,120,Historical,45.0,0.2888888888888888
+Sabah,2025-08-01,145,Historical,45.0,0.2888888888888888
+Sabah,2025-09-01,144,Historical,45.0,0.2888888888888888
+Sabah,2025-09-01,137,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2025-10-01,145,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2025-11-01,155,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2025-12-01,217,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-01-01,182,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-02-01,192,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-03-01,261,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-04-01,267,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-05-01,306,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-06-01,239,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-07-01,219,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-08-01,243,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-09-01,236,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-10-01,229,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-11-01,245,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2026-12-01,315,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-01-01,236,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-02-01,229,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-03-01,311,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-04-01,332,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-05-01,358,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-06-01,291,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-07-01,275,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-08-01,314,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-09-01,295,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-10-01,302,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-11-01,312,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2027-12-01,408,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-01-01,293,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-02-01,298,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-03-01,430,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-04-01,398,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-05-01,466,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-06-01,399,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-07-01,395,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-08-01,415,XGBoost Forecast,45.0,0.2888888888888888
+Sabah,2028-09-01,376,XGBoost Forecast,45.0,0.2888888888888888
+Sarawak,2020-01-01,0,Historical,0.0,0.0
+Sarawak,2020-02-01,0,Historical,0.0,0.0
+Sarawak,2020-03-01,0,Historical,0.0,0.0
+Sarawak,2020-04-01,0,Historical,0.0,0.0
+Sarawak,2020-05-01,0,Historical,0.0,0.0
+Sarawak,2020-06-01,0,Historical,0.0,0.0
+Sarawak,2020-07-01,0,Historical,0.0,0.0
+Sarawak,2020-08-01,0,Historical,0.0,0.0
+Sarawak,2020-09-01,0,Historical,0.0,0.0
+Sarawak,2020-10-01,0,Historical,0.0,0.0
+Sarawak,2020-11-01,0,Historical,0.0,0.0
+Sarawak,2020-12-01,0,Historical,0.0,0.0
+Sarawak,2021-01-01,0,Historical,0.0,0.0
+Sarawak,2021-02-01,0,Historical,0.0,0.0
+Sarawak,2021-03-01,0,Historical,0.0,0.0
+Sarawak,2021-04-01,0,Historical,0.0,0.0
+Sarawak,2021-05-01,0,Historical,0.0,0.0
+Sarawak,2021-06-01,0,Historical,0.0,0.0
+Sarawak,2021-07-01,0,Historical,0.0,0.0
+Sarawak,2021-08-01,1,Historical,0.0,0.0
+Sarawak,2021-09-01,0,Historical,0.0,0.0
+Sarawak,2021-10-01,0,Historical,0.0,0.0
+Sarawak,2021-11-01,0,Historical,0.0,0.0
+Sarawak,2021-12-01,0,Historical,0.0,0.0
+Sarawak,2022-01-01,0,Historical,0.0,0.0
+Sarawak,2022-02-01,0,Historical,0.0,0.0
+Sarawak,2022-03-01,1,Historical,0.0,0.0
+Sarawak,2022-04-01,3,Historical,0.0,0.0
+Sarawak,2022-05-01,5,Historical,0.0,0.0
+Sarawak,2022-06-01,5,Historical,0.0,0.0
+Sarawak,2022-07-01,3,Historical,0.0,0.0
+Sarawak,2022-08-01,6,Historical,0.0,0.0
+Sarawak,2022-09-01,13,Historical,0.0,0.0
+Sarawak,2022-10-01,11,Historical,0.0,0.0
+Sarawak,2022-11-01,10,Historical,0.0,0.0
+Sarawak,2022-12-01,27,Historical,0.0,0.0
+Sarawak,2023-01-01,10,Historical,0.0,0.0
+Sarawak,2023-02-01,12,Historical,0.0,0.0
+Sarawak,2023-03-01,24,Historical,15.0,0.1333333333333333
+Sarawak,2023-04-01,22,Historical,15.0,0.1333333333333333
+Sarawak,2023-05-01,32,Historical,15.0,0.1333333333333333
+Sarawak,2023-06-01,28,Historical,15.0,0.1333333333333333
+Sarawak,2023-07-01,24,Historical,19.0,0.1052631578947368
+Sarawak,2023-08-01,33,Historical,20.0,0.1
+Sarawak,2023-09-01,29,Historical,20.0,0.1
+Sarawak,2023-10-01,49,Historical,22.0,0.0909090909090909
+Sarawak,2023-11-01,48,Historical,22.0,0.0909090909090909
+Sarawak,2023-12-01,86,Historical,22.0,0.0909090909090909
+Sarawak,2024-01-01,36,Historical,22.0,0.0909090909090909
+Sarawak,2024-02-01,24,Historical,22.0,0.0909090909090909
+Sarawak,2024-03-01,65,Historical,32.0,0.125
+Sarawak,2024-04-01,45,Historical,37.0,0.1891891891891892
+Sarawak,2024-05-01,73,Historical,37.0,0.1891891891891892
+Sarawak,2024-06-01,53,Historical,49.0,0.1836734693877551
+Sarawak,2024-07-01,50,Historical,49.0,0.1836734693877551
+Sarawak,2024-08-01,52,Historical,49.0,0.1836734693877551
+Sarawak,2024-09-01,47,Historical,51.0,0.1764705882352941
+Sarawak,2024-10-01,47,Historical,56.0,0.1607142857142857
+Sarawak,2024-11-01,56,Historical,56.0,0.1607142857142857
+Sarawak,2024-12-01,83,Historical,75.0,0.2
+Sarawak,2025-01-01,50,Historical,75.0,0.2
+Sarawak,2025-02-01,64,Historical,75.0,0.2
+Sarawak,2025-03-01,94,Historical,75.0,0.2
+Sarawak,2025-04-01,92,Historical,75.0,0.2
+Sarawak,2025-05-01,127,Historical,88.0,0.2386363636363636
+Sarawak,2025-06-01,95,Historical,88.0,0.2386363636363636
+Sarawak,2025-07-01,88,Historical,88.0,0.2386363636363636
+Sarawak,2025-08-01,103,Historical,88.0,0.2386363636363636
+Sarawak,2025-09-01,95,Historical,88.0,0.2386363636363636
+Sarawak,2025-09-01,100,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2025-10-01,113,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2025-11-01,129,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2025-12-01,191,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-01-01,131,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-02-01,146,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-03-01,176,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-04-01,169,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-05-01,234,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-06-01,185,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-07-01,191,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-08-01,209,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-09-01,199,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-10-01,194,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-11-01,210,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2026-12-01,289,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-01-01,214,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-02-01,205,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-03-01,260,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-04-01,254,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-05-01,290,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-06-01,238,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-07-01,208,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-08-01,206,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-09-01,198,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-10-01,194,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-11-01,210,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2027-12-01,289,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-01-01,214,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-02-01,205,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-03-01,260,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-04-01,254,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-05-01,290,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-06-01,238,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-07-01,208,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-08-01,206,XGBoost Forecast,88.0,0.2386363636363636
+Sarawak,2028-09-01,198,XGBoost Forecast,88.0,0.2386363636363636
+Selangor,2020-01-01,1,Historical,0.0,0.0
+Selangor,2020-02-01,0,Historical,0.0,0.0
+Selangor,2020-03-01,0,Historical,0.0,0.0
+Selangor,2020-04-01,0,Historical,0.0,0.0
+Selangor,2020-05-01,0,Historical,0.0,0.0
+Selangor,2020-06-01,1,Historical,0.0,0.0
+Selangor,2020-07-01,0,Historical,0.0,0.0
+Selangor,2020-08-01,0,Historical,0.0,0.0
+Selangor,2020-09-01,1,Historical,0.0,0.0
+Selangor,2020-10-01,2,Historical,0.0,0.0
+Selangor,2020-11-01,4,Historical,0.0,0.0
+Selangor,2020-12-01,1,Historical,0.0,0.0
+Selangor,2021-01-01,0,Historical,0.0,0.0
+Selangor,2021-02-01,8,Historical,0.0,0.0
+Selangor,2021-03-01,1,Historical,0.0,0.0
+Selangor,2021-04-01,3,Historical,0.0,0.0
+Selangor,2021-05-01,3,Historical,0.0,0.0
+Selangor,2021-06-01,0,Historical,0.0,0.0
+Selangor,2021-07-01,2,Historical,0.0,0.0
+Selangor,2021-08-01,6,Historical,0.0,0.0
+Selangor,2021-09-01,3,Historical,0.0,0.0
+Selangor,2021-10-01,5,Historical,0.0,0.0
+Selangor,2021-11-01,2,Historical,0.0,0.0
+Selangor,2021-12-01,1,Historical,0.0,0.0
+Selangor,2022-01-01,1,Historical,0.0,0.0
+Selangor,2022-02-01,5,Historical,0.0,0.0
+Selangor,2022-03-01,25,Historical,0.0,0.0
+Selangor,2022-04-01,36,Historical,0.0,0.0
+Selangor,2022-05-01,16,Historical,0.0,0.0
+Selangor,2022-06-01,23,Historical,0.0,0.0
+Selangor,2022-07-01,21,Historical,0.0,0.0
+Selangor,2022-08-01,32,Historical,0.0,0.0
+Selangor,2022-09-01,69,Historical,0.0,0.0
+Selangor,2022-10-01,41,Historical,0.0,0.0
+Selangor,2022-11-01,66,Historical,0.0,0.0
+Selangor,2022-12-01,127,Historical,0.0,0.0
+Selangor,2023-01-01,52,Historical,0.0,0.0
+Selangor,2023-02-01,76,Historical,0.0,0.0
+Selangor,2023-03-01,149,Historical,152.0,0.125
+Selangor,2023-04-01,104,Historical,152.0,0.125
+Selangor,2023-05-01,148,Historical,152.0,0.125
+Selangor,2023-06-01,123,Historical,152.0,0.125
+Selangor,2023-07-01,139,Historical,182.0,0.1813186813186813
+Selangor,2023-08-01,159,Historical,231.0,0.238095238095238
+Selangor,2023-09-01,120,Historical,231.0,0.238095238095238
+Selangor,2023-10-01,186,Historical,288.0,0.2430555555555555
+Selangor,2023-11-01,230,Historical,288.0,0.2430555555555555
+Selangor,2023-12-01,548,Historical,329.0,0.2613981762917933
+Selangor,2024-01-01,231,Historical,339.0,0.2536873156342183
+Selangor,2024-02-01,174,Historical,339.0,0.2536873156342183
+Selangor,2024-03-01,382,Historical,374.0,0.2513368983957219
+Selangor,2024-04-01,277,Historical,418.0,0.2416267942583732
+Selangor,2024-05-01,405,Historical,418.0,0.2416267942583732
+Selangor,2024-06-01,303,Historical,514.0,0.235408560311284
+Selangor,2024-07-01,281,Historical,514.0,0.235408560311284
+Selangor,2024-08-01,278,Historical,554.0,0.2400722021660649
+Selangor,2024-09-01,254,Historical,559.0,0.2415026833631484
+Selangor,2024-10-01,252,Historical,959.0,0.2304483837330552
+Selangor,2024-11-01,291,Historical,959.0,0.2304483837330552
+Selangor,2024-12-01,408,Historical,1089.0,0.263544536271809
+Selangor,2025-01-01,251,Historical,1089.0,0.263544536271809
+Selangor,2025-02-01,335,Historical,1089.0,0.263544536271809
+Selangor,2025-03-01,447,Historical,1089.0,0.263544536271809
+Selangor,2025-04-01,443,Historical,1090.0,0.2642201834862385
+Selangor,2025-05-01,649,Historical,1276.0,0.2829153605015674
+Selangor,2025-06-01,514,Historical,1276.0,0.2829153605015674
+Selangor,2025-07-01,452,Historical,1276.0,0.2829153605015674
+Selangor,2025-08-01,567,Historical,1276.0,0.2829153605015674
+Selangor,2025-09-01,560,Historical,1276.0,0.2829153605015674
+Selangor,2025-09-01,531,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2025-10-01,546,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2025-11-01,636,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2025-12-01,861,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-01-01,671,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-02-01,708,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-03-01,782,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-04-01,904,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-05-01,1113,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-06-01,902,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-07-01,912,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-08-01,979,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-09-01,874,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-10-01,876,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-11-01,952,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2026-12-01,1194,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-01-01,870,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-02-01,978,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-03-01,1249,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-04-01,1065,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-05-01,1255,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-06-01,1091,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-07-01,1020,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-08-01,1091,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-09-01,970,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-10-01,955,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-11-01,1014,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2027-12-01,1221,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-01-01,879,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-02-01,983,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-03-01,1249,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-04-01,1065,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-05-01,1255,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-06-01,1091,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-07-01,1020,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-08-01,1091,XGBoost Forecast,1276.0,0.2829153605015674
+Selangor,2028-09-01,970,XGBoost Forecast,1276.0,0.2829153605015674
+Terengganu,2020-01-01,0,Historical,0.0,0.0
+Terengganu,2020-02-01,0,Historical,0.0,0.0
+Terengganu,2020-03-01,0,Historical,0.0,0.0
+Terengganu,2020-04-01,0,Historical,0.0,0.0
+Terengganu,2020-05-01,0,Historical,0.0,0.0
+Terengganu,2020-06-01,0,Historical,0.0,0.0
+Terengganu,2020-07-01,0,Historical,0.0,0.0
+Terengganu,2020-08-01,0,Historical,0.0,0.0
+Terengganu,2020-09-01,0,Historical,0.0,0.0
+Terengganu,2020-10-01,0,Historical,0.0,0.0
+Terengganu,2020-11-01,0,Historical,0.0,0.0
+Terengganu,2020-12-01,0,Historical,0.0,0.0
+Terengganu,2021-01-01,0,Historical,0.0,0.0
+Terengganu,2021-02-01,0,Historical,0.0,0.0
+Terengganu,2021-03-01,0,Historical,0.0,0.0
+Terengganu,2021-04-01,0,Historical,0.0,0.0
+Terengganu,2021-05-01,0,Historical,0.0,0.0
+Terengganu,2021-06-01,0,Historical,0.0,0.0
+Terengganu,2021-07-01,0,Historical,0.0,0.0
+Terengganu,2021-08-01,0,Historical,0.0,0.0
+Terengganu,2021-09-01,0,Historical,0.0,0.0
+Terengganu,2021-10-01,0,Historical,0.0,0.0
+Terengganu,2021-11-01,0,Historical,0.0,0.0
+Terengganu,2021-12-01,0,Historical,0.0,0.0
+Terengganu,2022-01-01,0,Historical,0.0,0.0
+Terengganu,2022-02-01,0,Historical,0.0,0.0
+Terengganu,2022-03-01,0,Historical,0.0,0.0
+Terengganu,2022-04-01,1,Historical,0.0,0.0
+Terengganu,2022-05-01,0,Historical,0.0,0.0
+Terengganu,2022-06-01,0,Historical,0.0,0.0
+Terengganu,2022-07-01,0,Historical,0.0,0.0
+Terengganu,2022-08-01,2,Historical,0.0,0.0
+Terengganu,2022-09-01,2,Historical,0.0,0.0
+Terengganu,2022-10-01,1,Historical,0.0,0.0
+Terengganu,2022-11-01,1,Historical,0.0,0.0
+Terengganu,2022-12-01,3,Historical,0.0,0.0
+Terengganu,2023-01-01,2,Historical,0.0,0.0
+Terengganu,2023-02-01,2,Historical,0.0,0.0
+Terengganu,2023-03-01,3,Historical,4.0,0.0
+Terengganu,2023-04-01,2,Historical,4.0,0.0
+Terengganu,2023-05-01,3,Historical,4.0,0.0
+Terengganu,2023-06-01,3,Historical,4.0,0.0
+Terengganu,2023-07-01,4,Historical,7.0,0.2857142857142857
+Terengganu,2023-08-01,3,Historical,7.0,0.2857142857142857
+Terengganu,2023-09-01,2,Historical,7.0,0.2857142857142857
+Terengganu,2023-10-01,4,Historical,7.0,0.2857142857142857
+Terengganu,2023-11-01,6,Historical,7.0,0.2857142857142857
+Terengganu,2023-12-01,12,Historical,7.0,0.2857142857142857
+Terengganu,2024-01-01,4,Historical,7.0,0.2857142857142857
+Terengganu,2024-02-01,4,Historical,7.0,0.2857142857142857
+Terengganu,2024-03-01,9,Historical,9.0,0.4444444444444444
+Terengganu,2024-04-01,7,Historical,9.0,0.4444444444444444
+Terengganu,2024-05-01,10,Historical,9.0,0.4444444444444444
+Terengganu,2024-06-01,8,Historical,13.0,0.6153846153846154
+Terengganu,2024-07-01,7,Historical,13.0,0.6153846153846154
+Terengganu,2024-08-01,8,Historical,13.0,0.6153846153846154
+Terengganu,2024-09-01,6,Historical,13.0,0.6153846153846154
+Terengganu,2024-10-01,6,Historical,27.0,0.8148148148148148
+Terengganu,2024-11-01,8,Historical,27.0,0.8148148148148148
+Terengganu,2024-12-01,14,Historical,31.0,0.8387096774193549
+Terengganu,2025-01-01,6,Historical,31.0,0.8387096774193549
+Terengganu,2025-02-01,13,Historical,31.0,0.8387096774193549
+Terengganu,2025-03-01,15,Historical,31.0,0.8387096774193549
+Terengganu,2025-04-01,14,Historical,31.0,0.8387096774193549
+Terengganu,2025-05-01,18,Historical,45.0,0.8444444444444444
+Terengganu,2025-06-01,15,Historical,45.0,0.8444444444444444
+Terengganu,2025-07-01,13,Historical,45.0,0.8444444444444444
+Terengganu,2025-08-01,18,Historical,45.0,0.8444444444444444
+Terengganu,2025-09-01,17,Historical,45.0,0.8444444444444444
+Terengganu,2025-09-01,16,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2025-10-01,17,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2025-11-01,19,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2025-12-01,25,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-01-01,19,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-02-01,20,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-03-01,30,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-04-01,31,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-05-01,33,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-06-01,35,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-07-01,36,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-08-01,39,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-09-01,40,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-10-01,43,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-11-01,48,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2026-12-01,72,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-01-01,60,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-02-01,55,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-03-01,78,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-04-01,87,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-05-01,107,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-06-01,106,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-07-01,108,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-08-01,126,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-09-01,145,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-10-01,158,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-11-01,170,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2027-12-01,223,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-01-01,238,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-02-01,267,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-03-01,367,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-04-01,375,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-05-01,486,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-06-01,465,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-07-01,542,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-08-01,670,XGBoost Forecast,45.0,0.8444444444444444
+Terengganu,2028-09-01,593,XGBoost Forecast,45.0,0.8444444444444444
+W.P. Kuala Lumpur,2020-01-01,2,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-02-01,3,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-03-01,1,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-04-01,0,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-05-01,0,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-06-01,1,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-07-01,2,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-08-01,1,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-09-01,4,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-10-01,9,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-11-01,7,Historical,0.0,0.0
+W.P. Kuala Lumpur,2020-12-01,6,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,2,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-02-01,3,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-03-01,14,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-04-01,12,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-05-01,21,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-06-01,0,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-07-01,6,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-08-01,38,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-09-01,27,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-10-01,11,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-11-01,9,Historical,0.0,0.0
+W.P. Kuala Lumpur,2021-12-01,5,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,9,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-02-01,23,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-03-01,64,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-04-01,144,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-05-01,73,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-06-01,85,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-07-01,93,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-08-01,102,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-09-01,233,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-10-01,185,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-11-01,219,Historical,0.0,0.0
+W.P. Kuala Lumpur,2022-12-01,444,Historical,0.0,0.0
+W.P. Kuala Lumpur,2023-01-01,209,Historical,0.0,0.0
+W.P. Kuala Lumpur,2023-02-01,251,Historical,0.0,0.0
+W.P. Kuala Lumpur,2023-03-01,484,Historical,145.0,0.0482758620689655
+W.P. Kuala Lumpur,2023-04-01,362,Historical,145.0,0.0482758620689655
+W.P. Kuala Lumpur,2023-05-01,590,Historical,145.0,0.0482758620689655
+W.P. Kuala Lumpur,2023-06-01,464,Historical,145.0,0.0482758620689655
+W.P. Kuala Lumpur,2023-07-01,485,Historical,186.0,0.0806451612903225
+W.P. Kuala Lumpur,2023-08-01,640,Historical,210.0,0.0952380952380952
+W.P. Kuala Lumpur,2023-09-01,472,Historical,210.0,0.0952380952380952
+W.P. Kuala Lumpur,2023-10-01,718,Historical,239.0,0.1338912133891213
+W.P. Kuala Lumpur,2023-11-01,792,Historical,239.0,0.1338912133891213
+W.P. Kuala Lumpur,2023-12-01,1426,Historical,279.0,0.1541218637992831
+W.P. Kuala Lumpur,2024-01-01,704,Historical,279.0,0.1541218637992831
+W.P. Kuala Lumpur,2024-02-01,508,Historical,279.0,0.1541218637992831
+W.P. Kuala Lumpur,2024-03-01,1077,Historical,287.0,0.1637630662020905
+W.P. Kuala Lumpur,2024-04-01,789,Historical,322.0,0.1521739130434782
+W.P. Kuala Lumpur,2024-05-01,1213,Historical,322.0,0.1521739130434782
+W.P. Kuala Lumpur,2024-06-01,962,Historical,373.0,0.1447721179624665
+W.P. Kuala Lumpur,2024-07-01,942,Historical,373.0,0.1447721179624665
+W.P. Kuala Lumpur,2024-08-01,895,Historical,417.0,0.158273381294964
+W.P. Kuala Lumpur,2024-09-01,729,Historical,433.0,0.1524249422632794
+W.P. Kuala Lumpur,2024-10-01,765,Historical,829.0,0.1930036188178528
+W.P. Kuala Lumpur,2024-11-01,882,Historical,829.0,0.1930036188178528
+W.P. Kuala Lumpur,2024-12-01,1234,Historical,929.0,0.2152852529601722
+W.P. Kuala Lumpur,2025-01-01,833,Historical,929.0,0.2152852529601722
+W.P. Kuala Lumpur,2025-02-01,1073,Historical,929.0,0.2152852529601722
+W.P. Kuala Lumpur,2025-03-01,1504,Historical,929.0,0.2152852529601722
+W.P. Kuala Lumpur,2025-04-01,1425,Historical,929.0,0.2152852529601722
+W.P. Kuala Lumpur,2025-05-01,2018,Historical,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-06-01,1595,Historical,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-07-01,1330,Historical,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-08-01,1682,Historical,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-09-01,1735,Historical,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-09-01,1631,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-10-01,1593,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-11-01,1669,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2025-12-01,1887,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-01-01,1467,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-02-01,1670,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-03-01,2115,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-04-01,1978,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-05-01,2323,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-06-01,1964,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-07-01,1819,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-08-01,2044,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-09-01,2032,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-10-01,2041,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-11-01,2116,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2026-12-01,2371,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-01-01,1863,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-02-01,2118,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-03-01,2683,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-04-01,2508,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-05-01,2946,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-06-01,2490,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-07-01,2307,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-08-01,2593,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-09-01,2577,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-10-01,2588,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-11-01,2684,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2027-12-01,3007,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-01-01,2362,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-02-01,2686,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-03-01,3403,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-04-01,3181,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-05-01,3736,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-06-01,3158,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-07-01,2926,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-08-01,3288,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Kuala Lumpur,2028-09-01,3268,XGBoost Forecast,1192.0,0.2114093959731543
+W.P. Labuan,2020-01-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-02-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-03-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-04-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-05-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-06-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-07-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-08-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-09-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-10-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-11-01,0,Historical,0.0,0.0
+W.P. Labuan,2020-12-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-01-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-02-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-03-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-04-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-05-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-06-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-07-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-08-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-09-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-10-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-11-01,0,Historical,0.0,0.0
+W.P. Labuan,2021-12-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-01-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-02-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-03-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-04-01,1,Historical,0.0,0.0
+W.P. Labuan,2022-05-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-06-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-07-01,0,Historical,0.0,0.0
+W.P. Labuan,2022-08-01,1,Historical,0.0,0.0
+W.P. Labuan,2022-09-01,2,Historical,0.0,0.0
+W.P. Labuan,2022-10-01,3,Historical,0.0,0.0
+W.P. Labuan,2022-11-01,4,Historical,0.0,0.0
+W.P. Labuan,2022-12-01,2,Historical,0.0,0.0
+W.P. Labuan,2023-01-01,1,Historical,0.0,0.0
+W.P. Labuan,2023-02-01,2,Historical,0.0,0.0
+W.P. Labuan,2023-03-01,3,Historical,0.0,0.0
+W.P. Labuan,2023-04-01,2,Historical,0.0,0.0
+W.P. Labuan,2023-05-01,5,Historical,0.0,0.0
+W.P. Labuan,2023-06-01,4,Historical,0.0,0.0
+W.P. Labuan,2023-07-01,3,Historical,0.0,0.0
+W.P. Labuan,2023-08-01,4,Historical,0.0,0.0
+W.P. Labuan,2023-09-01,3,Historical,0.0,0.0
+W.P. Labuan,2023-10-01,5,Historical,0.0,0.0
+W.P. Labuan,2023-11-01,5,Historical,0.0,0.0
+W.P. Labuan,2023-12-01,13,Historical,0.0,0.0
+W.P. Labuan,2024-01-01,5,Historical,0.0,0.0
+W.P. Labuan,2024-02-01,4,Historical,0.0,0.0
+W.P. Labuan,2024-03-01,10,Historical,0.0,0.0
+W.P. Labuan,2024-04-01,6,Historical,0.0,0.0
+W.P. Labuan,2024-05-01,11,Historical,0.0,0.0
+W.P. Labuan,2024-06-01,7,Historical,0.0,0.0
+W.P. Labuan,2024-07-01,7,Historical,0.0,0.0
+W.P. Labuan,2024-08-01,6,Historical,0.0,0.0
+W.P. Labuan,2024-09-01,5,Historical,0.0,0.0
+W.P. Labuan,2024-10-01,5,Historical,0.0,0.0
+W.P. Labuan,2024-11-01,7,Historical,0.0,0.0
+W.P. Labuan,2024-12-01,9,Historical,0.0,0.0
+W.P. Labuan,2025-01-01,6,Historical,0.0,0.0
+W.P. Labuan,2025-02-01,8,Historical,0.0,0.0
+W.P. Labuan,2025-03-01,11,Historical,0.0,0.0
+W.P. Labuan,2025-04-01,11,Historical,0.0,0.0
+W.P. Labuan,2025-05-01,16,Historical,0.0,0.0
+W.P. Labuan,2025-06-01,12,Historical,0.0,0.0
+W.P. Labuan,2025-07-01,10,Historical,0.0,0.0
+W.P. Labuan,2025-08-01,14,Historical,0.0,0.0
+W.P. Labuan,2025-09-01,14,Historical,0.0,0.0
+W.P. Labuan,2025-09-01,13,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2025-10-01,13,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2025-11-01,16,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2025-12-01,20,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-01-01,16,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-02-01,17,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-03-01,21,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-04-01,21,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-05-01,25,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-06-01,27,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-07-01,26,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-08-01,28,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-09-01,30,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-10-01,38,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-11-01,38,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2026-12-01,56,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-01-01,45,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-02-01,49,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-03-01,70,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-04-01,82,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-05-01,100,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-06-01,93,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-07-01,108,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-08-01,122,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-09-01,163,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-10-01,180,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-11-01,205,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2027-12-01,287,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-01-01,272,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-02-01,289,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-03-01,401,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-04-01,432,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-05-01,531,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-06-01,498,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-07-01,557,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-08-01,665,XGBoost Forecast,0.0,0.0
+W.P. Labuan,2028-09-01,744,XGBoost Forecast,0.0,0.0
+W.P. Putrajaya,2020-01-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-02-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-03-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-04-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-05-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-06-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-07-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-08-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-09-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-10-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-11-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2020-12-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-01-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-02-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-03-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-04-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2021-05-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-06-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-07-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-08-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-09-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-10-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-11-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2021-12-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-01-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-02-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-03-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-04-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2022-05-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-06-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-07-01,0,Historical,0.0,0.0
+W.P. Putrajaya,2022-08-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2022-09-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2022-10-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2022-11-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2022-12-01,2,Historical,0.0,0.0
+W.P. Putrajaya,2023-01-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2023-02-01,1,Historical,0.0,0.0
+W.P. Putrajaya,2023-03-01,3,Historical,4.0,0.0
+W.P. Putrajaya,2023-04-01,2,Historical,4.0,0.0
+W.P. Putrajaya,2023-05-01,3,Historical,4.0,0.0
+W.P. Putrajaya,2023-06-01,3,Historical,4.0,0.0
+W.P. Putrajaya,2023-07-01,3,Historical,5.0,0.0
+W.P. Putrajaya,2023-08-01,3,Historical,5.0,0.0
+W.P. Putrajaya,2023-09-01,2,Historical,5.0,0.0
+W.P. Putrajaya,2023-10-01,4,Historical,5.0,0.0
+W.P. Putrajaya,2023-11-01,5,Historical,5.0,0.0
+W.P. Putrajaya,2023-12-01,10,Historical,5.0,0.0
+W.P. Putrajaya,2024-01-01,4,Historical,5.0,0.0
+W.P. Putrajaya,2024-02-01,4,Historical,5.0,0.0
+W.P. Putrajaya,2024-03-01,8,Historical,5.0,0.0
+W.P. Putrajaya,2024-04-01,5,Historical,7.0,0.0
+W.P. Putrajaya,2024-05-01,9,Historical,7.0,0.0
+W.P. Putrajaya,2024-06-01,7,Historical,7.0,0.0
+W.P. Putrajaya,2024-07-01,6,Historical,7.0,0.0
+W.P. Putrajaya,2024-08-01,6,Historical,7.0,0.0
+W.P. Putrajaya,2024-09-01,5,Historical,7.0,0.0
+W.P. Putrajaya,2024-10-01,5,Historical,18.0,0.0
+W.P. Putrajaya,2024-11-01,7,Historical,18.0,0.0
+W.P. Putrajaya,2024-12-01,9,Historical,31.0,0.064516129032258
+W.P. Putrajaya,2025-01-01,6,Historical,31.0,0.064516129032258
+W.P. Putrajaya,2025-02-01,8,Historical,31.0,0.064516129032258
+W.P. Putrajaya,2025-03-01,11,Historical,31.0,0.064516129032258
+W.P. Putrajaya,2025-04-01,11,Historical,31.0,0.064516129032258
+W.P. Putrajaya,2025-05-01,16,Historical,34.0,0.0588235294117647
+W.P. Putrajaya,2025-06-01,12,Historical,34.0,0.0588235294117647
+W.P. Putrajaya,2025-07-01,10,Historical,34.0,0.0588235294117647
+W.P. Putrajaya,2025-08-01,14,Historical,34.0,0.0588235294117647
+W.P. Putrajaya,2025-09-01,14,Historical,34.0,0.0588235294117647
+W.P. Putrajaya,2025-09-01,13,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2025-10-01,14,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2025-11-01,16,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2025-12-01,20,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-01-01,16,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-02-01,17,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-03-01,22,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-04-01,21,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-05-01,23,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-06-01,24,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-07-01,26,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-08-01,27,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-09-01,26,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-10-01,27,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-11-01,36,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2026-12-01,50,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-01-01,39,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-02-01,42,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-03-01,63,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-04-01,57,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-05-01,72,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-06-01,77,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-07-01,76,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-08-01,91,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-09-01,103,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-10-01,119,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-11-01,142,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2027-12-01,220,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-01-01,173,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-02-01,196,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-03-01,286,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-04-01,335,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-05-01,382,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-06-01,354,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-07-01,392,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-08-01,442,XGBoost Forecast,34.0,0.0588235294117647
+W.P. Putrajaya,2028-09-01,485,XGBoost Forecast,34.0,0.0588235294117647
