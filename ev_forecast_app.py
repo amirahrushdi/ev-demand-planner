@@ -344,7 +344,7 @@ with tab_buyer:
             """, unsafe_allow_html=True)
 
             # Red button — full width of c_score
-            if st.button("✅ Check My Readiness", use_container_width=True):
+            if st.button("Check My Readiness", use_container_width=True):
                 st.session_state.readiness_clicked = True
 
             # Decision result — same text style as left card
