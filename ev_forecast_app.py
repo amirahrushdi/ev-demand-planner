@@ -286,7 +286,7 @@ with tab_buyer:
         with c_checks:
             has_home  = st.checkbox("Home parking for charger")
             near_pub  = st.checkbox("EVCS within 5 km")
-            budget_ok = st.checkbox("Budget above RM 50,000 for EV Ownership")
+            budget_ok = st.checkbox("Budget above RM 50,000 for EV ownership")
             commute   = st.slider("Daily commute — round trip (km)", 10, 300, 65, step=5)
 
         # ── Score calculation ──
