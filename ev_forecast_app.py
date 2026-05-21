@@ -286,7 +286,7 @@ with tab_buyer:
         with c_checks:
             has_home  = st.checkbox("Home parking for charger")
             near_pub  = st.checkbox("EVCS within 5 km")
-            budget_ok = st.checkbox("Budget above RM 15,000")
+            budget_ok = st.checkbox("Budget above RM 50,000 for EV Ownership")
             commute   = st.slider("Daily commute — round trip (km)", 10, 300, 65, step=5)
 
         # ── Score calculation ──
@@ -344,7 +344,7 @@ with tab_buyer:
             """, unsafe_allow_html=True)
 
             # Red button — full width of c_score
-            if st.button("Check My Readiness", use_container_width=True):
+            if st.button("✅ Check My Readiness", use_container_width=True):
                 st.session_state.readiness_clicked = True
 
             # Decision result — same text style as left card
