@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 import pandas as pd
 
 st.set_page_config(
@@ -7,6 +8,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
+# Keep app alive — refresh every 4 minutes
+st_autorefresh(interval=240000, limit=None, key="keepalive")
 
 st.markdown("""
 <style>
